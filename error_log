@@ -1,0 +1,21 @@
+[23-Dec-2021 05:43:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ifinish/public_html/rrc_scr_sports/admin/dashboard.php on line 168
+[24-Dec-2021 11:28:04 UTC] PHP Parse error:  syntax error, unexpected '$totalPendingCount' (T_VARIABLE) in /home/ifinish/public_html/rrc_scr_sports/admin/dashboard.php on line 168
+[09-Feb-2022 11:54:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 452
+[09-Feb-2022 11:55:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 453
+[09-Feb-2022 11:56:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 453
+[09-Feb-2022 11:56:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 453
+[09-Feb-2022 11:57:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 450
+[09-Feb-2022 11:58:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 453
+[09-Feb-2022 11:59:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 453
+[10-Feb-2022 11:57:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ifinish/public_html/rrc_scr_sports/admin/dashboard.php on line 185
+[10-Feb-2022 12:03:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ifinish/public_html/rrc_scr_sports/admin/dashboard.php on line 232
+[10-Feb-2022 12:17:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 39
+[10-Feb-2022 12:25:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/dashboard.php on line 245
+[10-Feb-2022 12:25:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ifinish/public_html/rrc_scr_sports/admin/dashboard.php on line 245
+[11-Feb-2022 10:46:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 509
+[11-Feb-2022 10:46:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 509
+[11-Feb-2022 10:46:21 UTC] PHP Warning:  Illegal string offset 'updated' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 503
+[11-Feb-2022 10:46:21 UTC] PHP Warning:  Illegal string offset 'updated' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 503
+[11-Feb-2022 10:46:37 UTC] PHP Warning:  Illegal string offset 'updated' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 503
+[11-Feb-2022 10:46:37 UTC] PHP Warning:  Illegal string offset 'updated' in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 503
+[21-Feb-2022 07:28:04 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ifinish/public_html/rrc_scr_sports/admin/documents.php on line 219
